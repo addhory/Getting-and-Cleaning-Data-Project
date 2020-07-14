@@ -10,5 +10,9 @@
 
 Goal | Item | Link to Item
 --- | --- | ---
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/RidhoAnshory/Getting-and-Cleaning-Data-Project/blob/master/run_analysis.R "run_analysis.R")
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/RidhoAnshory/Getting-and-Cleaning-Data-Project/blob/master/data/tidyData.txt "tidyData.txt")
+Codebook | CodeBook.md |  [Repo Link](https://github.com/RidhoAnshory/Getting-and-Cleaning-Data-Project/blob/master/CodeBook.md "CodeBook.md")
+
 
 
